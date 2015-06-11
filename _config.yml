@@ -1,0 +1,14 @@
+# Site settings
+title: Joel Powers
+email: powers.joel@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is the reposistory of web-related things I've decided to document. 
+  Initially, I'm doing this for myself, though I also imagine that others will find this stuff useful, too.
+  I hope I'm right aboout that. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "joelpowers.com" # the base hostname & protocol for your site
+twitter_username: joel_thinks
+github_username:  joel-powers
+
+# Build settings
+markdown: kramdown
